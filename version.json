@@ -1,8 +1,4 @@
 {
-  "Configurations": [
-    {
-      "Version": "2.0.0",
-      "URL": "https://raw.githubusercontent.com/Thienbt92/CLOCK_WT01_OTA/refs/heads/main/firmware.bin"
-    }
-  ]
+  "Version": "2.0.0",
+  "URL": "https://raw.githubusercontent.com/Thienbt92/CLOCK_WT01_OTA/refs/heads/main/firmware.bin"
 }
